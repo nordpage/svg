@@ -1,0 +1,11 @@
+.icon {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    background-size: cover;
+}
+
+.icon-html:hover,
+.icon-html:focus {
+    filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
+}
